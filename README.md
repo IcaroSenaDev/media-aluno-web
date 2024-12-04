@@ -20,7 +20,7 @@ O sistema permite ao usuário inserir várias notas, separadas por vírgula, em 
 Primeiro, clone este repositório para a sua máquina local:
 
 ```bash
-git clone <URL do repositório>
+git clone https://github.com/IcaroSenaDev/media-aluno-web.git
 cd media-aluno-web
 
 ```
